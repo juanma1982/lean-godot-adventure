@@ -70,11 +70,11 @@ text = "Credits"
 margin_top = 78.0
 margin_right = 117.0
 margin_bottom = 107.0
+custom_fonts/font = ExtResource( 3 )
 custom_styles/hover = SubResource( 1 )
 custom_styles/pressed = ExtResource( 4 )
 custom_styles/focus = ExtResource( 5 )
 custom_styles/normal = ExtResource( 6 )
-custom_fonts/font = ExtResource( 3 )
 text = "Quit"
 
 [node name="Label" type="Label" parent="."]
